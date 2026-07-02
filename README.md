@@ -15,6 +15,12 @@ This lab simulates a small company IT helpdesk (corp.local) with a configured cu
 
 ---
 
+## A Note on Ticket Simulation
+
+Ticket scenarios and documentation in this project were created with the assistance of **Claude AI (Anthropic)** to simulate realistic IT support situations. All tickets were manually entered, worked on, and resolved in Jira Service Management.
+
+---
+
 ## Skills Demonstrated
 
 - Configuring a Jira Service Management project from scratch
