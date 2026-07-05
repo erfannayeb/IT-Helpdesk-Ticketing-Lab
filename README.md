@@ -85,6 +85,9 @@ The helpdesk portal was configured with the following request categories:
 | DEMO-7 | Service Request | Install Adobe Acrobat Pro on laptop               | Low      | ✅ Resolved |
 | DEMO-8 | Service Request | Request access to shared network folder           | Medium   | ✅ Resolved |
 | DEMO-9 | Support         | Office printer on Floor 2 not showing on computer | Medium   | ✅ Resolved |
+| SR-004 | Service Request | Set up Microsoft 365 account for new employee | Medium | ✅ Resolved |
+| SR-005 | Service Request | Create shared mailbox for Finance department | Medium | ✅ Resolved |
+| INC-005 | Incident | User cannot complete MFA setup — locked out of Microsoft 365 | High | ✅ Resolved |
 
 ---
 
@@ -104,4 +107,4 @@ See individual ticket files for full details.
 
 ## Tools & Technologies Referenced
 
-`Jira Service Management` `Active Directory` `Windows Event Viewer` `Group Policy (GPO)` `Remote Desktop (RDP)` `Microsoft 365` `Windows Credential Manager` `Microsoft Defender` `CMD / PowerShell` `DNS / DHCP` `VPN`
+`Jira Service Management` `Active Directory` `Windows Event Viewer` `Group Policy (GPO)` `Remote Desktop (RDP)` `Microsoft 365` `Windows Credential Manager` `Microsoft Defender` `CMD / PowerShell` `DNS / DHCP` `VPN` `Microsoft 365 Admin Center` `Exchange Online` `Azure AD` `Microsoft Authenticator`
