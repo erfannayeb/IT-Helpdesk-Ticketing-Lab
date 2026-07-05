@@ -15,6 +15,9 @@ This folder contains detailed documentation for all tickets handled in the corp.
 | [SR-002-adobe-install.md](SR-002-adobe-install.md) | SR-002 | Service Request | Install Adobe Acrobat Pro on laptop | Low |
 | [SR-003-folder-access.md](SR-003-folder-access.md) | SR-003 | Service Request | Request access to shared network folder | Medium |
 | [SUP-002-printer-not-found.md](SUP-002-printer-not-found.md) | SUP-002 | Support | Office printer on Floor 2 not showing on computer | Medium |
+| [SR-004-m365-new-employee.md](SR-004-m365-new-employee.md) | SR-004 | Service Request | Set up Microsoft 365 account for new employee | Medium |
+| [SR-005-shared-mailbox.md](SR-005-shared-mailbox.md) | SR-005 | Service Request | Create shared mailbox for Finance department | Medium |
+| [INC-005-mfa-issue.md](INC-005-mfa-issue.md) | INC-005 | Incident | User cannot complete MFA setup — locked out of Microsoft 365 | High |
 
 ---
 
@@ -45,3 +48,7 @@ Each ticket file follows this standard format:
 | Group Policy (GPO / gpupdate) | SR-003, SUP-002 |
 | Microsoft 365 Admin | SR-001 |
 | Software Licence Portal | SR-002 |
+| Microsoft 365 Admin Center | SR-004, SR-005, INC-005 |
+| Exchange Online (Shared Mailbox) | SR-005 |
+| Azure AD / MFA Management | INC-005 |
+| Microsoft Authenticator | INC-005 |
