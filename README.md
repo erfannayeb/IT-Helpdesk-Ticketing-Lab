@@ -10,7 +10,7 @@ This lab simulates a small company IT helpdesk (corp.local) with a configured cu
 
 **Tool used:** Jira Service Management (Free tier)  
 **Simulated environment:** corp.local domain  
-**Total tickets handled:** 7  
+**Total tickets handled:** 10  
 **Ticket types:** Incident, Service Request, Support, Task
 
 ---
